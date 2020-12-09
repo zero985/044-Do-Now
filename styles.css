@@ -1,0 +1,20 @@
+.menu {
+    padding: 5px;
+    background-color: grey;
+    
+    
+}
+
+.item {
+    margin: 10px;
+    padding: 8px;
+    border: 1px black solid;
+}
+
+.blue {
+    background-color: lightblue;  
+}
+
+.green {
+    background-color: lightgreen;   
+}
